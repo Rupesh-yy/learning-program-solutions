@@ -1,0 +1,15 @@
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\bin\Debug\net8.0\method.exe
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\bin\Debug\net8.0\method.deps.json
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\bin\Debug\net8.0\method.runtimeconfig.json
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\bin\Debug\net8.0\method.dll
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\bin\Debug\net8.0\method.pdb
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\obj\Debug\net8.0\method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\obj\Debug\net8.0\method.AssemblyInfoInputs.cache
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\obj\Debug\net8.0\method.AssemblyInfo.cs
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\obj\Debug\net8.0\method.csproj.CoreCompileInputs.cache
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\obj\Debug\net8.0\method.sourcelink.json
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\obj\Debug\net8.0\method.dll
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\obj\Debug\net8.0\refint\method.dll
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\obj\Debug\net8.0\method.pdb
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\obj\Debug\net8.0\method.genruntimeconfig.cache
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week1_DesignPatternAndPrinciples\02_factorymethod\method\obj\Debug\net8.0\ref\method.dll
