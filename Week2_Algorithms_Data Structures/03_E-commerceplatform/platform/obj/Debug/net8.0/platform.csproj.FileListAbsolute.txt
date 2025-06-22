@@ -1,0 +1,15 @@
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\bin\Debug\net8.0\platform.exe
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\bin\Debug\net8.0\platform.deps.json
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\bin\Debug\net8.0\platform.runtimeconfig.json
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\bin\Debug\net8.0\platform.dll
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\bin\Debug\net8.0\platform.pdb
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\obj\Debug\net8.0\platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\obj\Debug\net8.0\platform.AssemblyInfoInputs.cache
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\obj\Debug\net8.0\platform.AssemblyInfo.cs
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\obj\Debug\net8.0\platform.csproj.CoreCompileInputs.cache
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\obj\Debug\net8.0\platform.sourcelink.json
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\obj\Debug\net8.0\platform.dll
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\obj\Debug\net8.0\refint\platform.dll
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\obj\Debug\net8.0\platform.pdb
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\obj\Debug\net8.0\platform.genruntimeconfig.cache
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\03_E-commerceplatform\platform\obj\Debug\net8.0\ref\platform.dll
