@@ -1,0 +1,15 @@
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\obj\Debug\net8.0\forcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\obj\Debug\net8.0\forcasting.AssemblyInfoInputs.cache
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\obj\Debug\net8.0\forcasting.AssemblyInfo.cs
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\obj\Debug\net8.0\forcasting.csproj.CoreCompileInputs.cache
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\obj\Debug\net8.0\forcasting.sourcelink.json
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\bin\Debug\net8.0\forcasting.exe
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\bin\Debug\net8.0\forcasting.deps.json
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\bin\Debug\net8.0\forcasting.runtimeconfig.json
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\bin\Debug\net8.0\forcasting.dll
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\bin\Debug\net8.0\forcasting.pdb
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\obj\Debug\net8.0\forcasting.dll
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\obj\Debug\net8.0\refint\forcasting.dll
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\obj\Debug\net8.0\forcasting.pdb
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\obj\Debug\net8.0\forcasting.genruntimeconfig.cache
+C:\Users\rupes\OneDrive\Desktop\cognizant\learning-program-solutions\Week2_Algorithms_Data Structures\04_Financial_Forcasting\forcasting\obj\Debug\net8.0\ref\forcasting.dll
