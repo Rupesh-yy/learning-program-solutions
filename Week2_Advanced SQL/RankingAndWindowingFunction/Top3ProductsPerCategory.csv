@@ -1,0 +1,10 @@
+ProductID,ProductName,Category,Price,row_num
+4,TV,Electronics,1200.0,1
+1,Laptop,Electronics,900.0,2
+2,Smartphone,Electronics,700.0,3
+7,Refrigerator,Home Appliances,1000.0,1
+8,Oven,Home Appliances,800.0,2
+5,Microwave,Home Appliances,400.0,3
+10,Perfume,Personal Care,300.0,1
+11,Cream,Personal Care,250.0,2
+12,Lotion,Personal Care,150.0,3

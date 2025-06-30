@@ -1,0 +1,12 @@
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.sourcelink.json
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\DELL\OneDrive\Documents\Cognizant\DN-4.0-Deep-Skilling\Week2_AdvancedSQLAndNunit\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll
