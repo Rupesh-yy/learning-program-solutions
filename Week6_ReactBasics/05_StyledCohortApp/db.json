@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "id": 1,
+      "originalUrl": "https://www.google.com",
+      "shortCode": "ggl123",
+      "clicks": 5
+    },
+    {
+      "id": 2,
+      "originalUrl": "https://www.example.com",
+      "shortCode": "exmpl456",
+      "clicks": 2
+    }
+  ]
+}
