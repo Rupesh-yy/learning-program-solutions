@@ -1,0 +1,34 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background: #f8f9fa;
+}
+
+.office-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.office-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  background: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+  transition: transform 0.3s ease;
+}
+
+.office-card:hover {
+  transform: scale(1.05);
+}
+
+.office-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
